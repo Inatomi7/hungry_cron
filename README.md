@@ -8,7 +8,7 @@
 <br>
 （関数別）<br>
 class Hungry_schedule_get()<br>
-wordpressのcron上に登録されたデータを管理画面表示のために収集（勉強のためclass使用）<br>
+　wordpressのcron上に登録されたデータを管理画面表示のために収集（勉強のためclass使用）<br>
 hungry_cron_action() 記事収集時に実行 → hungry_reading_rss.phpの実行用
 <br>
 <br>
