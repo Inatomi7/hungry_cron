@@ -5,6 +5,7 @@
  <br>
  （役割）<br>
  各登録サイトの自動収集時間の間隔を管理<br>
+ 収集実行の着火点<br>
 <br>
 （関数別）<br>
 ・class Hungry_schedule_get()<br>
