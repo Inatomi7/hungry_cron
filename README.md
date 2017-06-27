@@ -13,7 +13,7 @@ hungry_cron_action() 記事収集時に実行 → hungry_reading_rss.phpの実�
 
 
  ＜hungry_reading_rss.php＞<br>
-
+<br>
  （役割）<br>
  ・記事情報のバックwordpressへの登録<br>
  ・記事情報のフロントwordpressへの登録<br>
