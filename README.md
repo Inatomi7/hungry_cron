@@ -2,6 +2,7 @@
 アンテナサイト用 wordpressプラグイン<br>
 
  ＜hungry_cron.php＞<br>
+ <br>
  （役割）<br>
  各登録サイトの自動収集時間の間隔を管理<br>
 <br>
@@ -9,9 +10,9 @@
 class Hungry_schedule_get()<br>
 wordpressのcron上に登録されたデータを管理画面表示のために収集（勉強のためclass使用）<br>
 hungry_cron_action() 記事収集時に実行 → hungry_reading_rss.phpの実行用
-
-
-
+<br>
+<br>
+<br>
  ＜hungry_reading_rss.php＞<br>
 <br>
  （役割）<br>
