@@ -7,7 +7,7 @@ hungry_cron.php
 hungry_reading_rss.php
 
  ＜役割＞
- ・記事情報のバックwordpressへの登録
+ ・記事情報のバックwordpressへの登録<br>
  ・記事情報のフロントwordpressへの登録
  ・サムネイルのトリミング加工
  ・サムネイルをFTPUP
